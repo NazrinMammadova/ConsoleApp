@@ -11,7 +11,7 @@ namespace ConsoleApp104
         Categories categorie;
         public bool IsOnline;
         public int limit;
-        List<Student> students = new List<Student>();
+        public List<Student> students = new List<Student>();
         public string name;
         public string no;
         
@@ -24,6 +24,45 @@ namespace ConsoleApp104
             Limit = limit;
 
         }
+        public List <Student> Students
+        {
+            get => students;
+            set
+            {
+                if (!IsOnline)
+                {
+                    limit = 20;
+                    students = new List<Student>(limit);
+
+                }
+                else
+                {
+                    limit = 10;
+                    students = new List<Student>(limit);
+                }
+                
+
+
+            }
+
+
+
+
+
+        }
+        public void   AddStudents(Student student)
+        {
+
+            students.Add(student);
+
+
+
+
+
+
+        }
+
+
 
 
 

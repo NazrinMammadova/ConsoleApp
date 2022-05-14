@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\bin\Debug\netcoreapp3.1\ConsoleApp104.exe
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\bin\Debug\netcoreapp3.1\ConsoleApp104.deps.json
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\bin\Debug\netcoreapp3.1\ConsoleApp104.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\bin\Debug\netcoreapp3.1\ConsoleApp104.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\bin\Debug\netcoreapp3.1\ConsoleApp104.dll
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\bin\Debug\netcoreapp3.1\ConsoleApp104.pdb
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\obj\Debug\netcoreapp3.1\ConsoleApp104.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\obj\Debug\netcoreapp3.1\ConsoleApp104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\obj\Debug\netcoreapp3.1\ConsoleApp104.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\obj\Debug\netcoreapp3.1\ConsoleApp104.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\obj\Debug\netcoreapp3.1\ConsoleApp104.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\obj\Debug\netcoreapp3.1\ConsoleApp104.dll
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\obj\Debug\netcoreapp3.1\ConsoleApp104.pdb
+C:\Users\Asus\source\repos\ConsoleApp104\ConsoleApp104\obj\Debug\netcoreapp3.1\ConsoleApp104.genruntimeconfig.cache

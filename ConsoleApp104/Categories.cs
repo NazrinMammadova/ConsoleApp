@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp104
 {
-    enum Categories
+       enum Categories
     {
         Programing=1,
         Desing,

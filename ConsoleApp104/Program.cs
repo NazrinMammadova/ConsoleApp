@@ -6,7 +6,8 @@ namespace ConsoleApp104
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Please enter student's name");
+            Console.ReadLine();
 
 
 
