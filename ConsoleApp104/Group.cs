@@ -44,29 +44,26 @@ namespace ConsoleApp104
 
 
             }
+           
 
 
 
 
 
         }
-        public void   AddStudents(Student student)
+        public void StudentInfo(Student student)
         {
-
-            students.Add(student);
-
-
-
-
-
-
+            Console.WriteLine($"Name : {student.Name} \n Surname : {student.Surname} \n  Groupno : {student.GroupNo} \n Id : {student.Id} \n Guaranty: {student.Guaranty}   ");
+            
         }
 
 
 
 
 
-       
+
+
+
 
 
     }
